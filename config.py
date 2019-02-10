@@ -1,5 +1,5 @@
 # Flask settings
-DEBUG = False
+DEBUG = True
 
 # Flask-restplus settings
 RESTPLUS_MASK_SWAGGER = False
